@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		5E863B3B24C349FD002EEF1E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E863B3A24C349FD002EEF1E /* AppDelegate.swift */; };
 		5E863B3D24C349FD002EEF1E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E863B3C24C349FD002EEF1E /* SceneDelegate.swift */; };
-		5E863B3F24C349FD002EEF1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E863B3E24C349FD002EEF1E /* ViewController.swift */; };
 		5E863B4224C349FD002EEF1E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E863B4024C349FD002EEF1E /* Main.storyboard */; };
 		5E863B4424C349FF002EEF1E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E863B4324C349FF002EEF1E /* Assets.xcassets */; };
 		5E863B4724C349FF002EEF1E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E863B4524C349FF002EEF1E /* LaunchScreen.storyboard */; };
 		5E863B5224C349FF002EEF1E /* SliderBarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E863B5124C349FF002EEF1E /* SliderBarTests.swift */; };
 		5E863B5D24C349FF002EEF1E /* SliderBarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E863B5C24C349FF002EEF1E /* SliderBarUITests.swift */; };
+		5E863B6B24C351C5002EEF1E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E863B3E24C349FD002EEF1E /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E863B3F24C349FD002EEF1E /* ViewController.swift in Sources */,
+				5E863B6B24C351C5002EEF1E /* ViewController.swift in Sources */,
 				5E863B3B24C349FD002EEF1E /* AppDelegate.swift in Sources */,
 				5E863B3D24C349FD002EEF1E /* SceneDelegate.swift in Sources */,
 			);
